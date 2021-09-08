@@ -1,7 +1,7 @@
 /* *****************************************************************************
  *  Name: Edward Jin
  *  Date: 8/13/2021
- *  Description: Solving the baseball elimination problem by building a Flow  Network and running Ford-Fulkerson
+ *  Description: Solving the baseball elimination problem by building a Flow Network and running Ford-Fulkerson
  **************************************************************************** */
 
 // import edu.princeton.cs.algs4.In;
